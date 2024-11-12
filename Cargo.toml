@@ -1,8 +1,21 @@
 [package]
-name = "dtekv-emulator"
+name = "client"
 version = "0.1.0"
 edition = "2021"
+
+[lib]
+name = "client"
+path = "lib/lib.rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+dtekv_emulator = { git = "https://github.com/PumpedSardines/dtekv-emulator-core", rev="4964295d2d221d125e82d62983e4b1ca3868d908" }
+const_format = "0.2.33"
+http = "1.1.0"
+image = "0.25.5"
+open = "5.3.0"
+url = "2.5.3"
+wry = "0.46.3"
+tao = "0.30.5"
+rfd = "0.15.0"

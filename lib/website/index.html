@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script defer src="{{HOST}}/js/__dtekv__.js"></script>
+    <script defer src="{{HOST}}/js/index.js"></script>
+    <link rel="stylesheet" href="{{HOST}}/css/style.css" />
+  </head>
+  <body>
+    <main>
+      <div class="d">
+        <button id="load">Load</button>
+        <button id="reset">Reset</button>
+        <button id="help">Help</button>
+      </div>
+      <div class="a">
+        <p>VGA Output:</p>
+        <div class="vga-outer">
+          <div class="vga-inner">
+            <img />
+          </div>
+        </div>
+      </div>
+      <div class="b">
+        <div id="hex-displays"></div>
+        <div class="left-most">
+          <div class="switches"></div>
+          <button class="button"><div></div></button>
+        </div>
+      </div>
+      <div class="c">
+        <p>UART Output:</p>
+        <textarea id="uart" readonly></textarea>
+      </div>
+    </main>
+  </body>
+</html>
