@@ -14,9 +14,6 @@
 
 Run `dtekv_emulator path/to/bin.bin`, or if you're running directly from this folder: `cargo run --release "path/to/bin.bin"`
 
-> [!NOTE]
-> It's recommended to run this emulator in release mode since the debug build is noticeably slower
-
 This project can take the binary you upload to the dtek-v board and run it in an emulated environment, making it easier to develop your programs without having to upload to the chip every time you want to debug.
 
 ## Supported IO devices:
