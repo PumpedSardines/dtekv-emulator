@@ -3,6 +3,10 @@
     <p>An emulator for the DTEK-V chip, built on top of Web-view</p>
 </div>
 
+![A preview of what the emulator looks like](assets/example.png)
+
+<br />
+
 ## Example:
 
 Run `cargo run --release --examples board_games` to see the emulator in action
