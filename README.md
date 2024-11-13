@@ -9,9 +9,8 @@
 
 ## Example:
 
-Run `cargo run --release --examples board_games` to see the emulator in action
-
-## How to use:
+> [!TIP]
+> Run `cargo run --release --examples board_games` to see the emulator in action
 
 Run `dtekv_emulator path/to/bin.bin`, or if you're running directly from this folder: `cargo run --release "path/to/bin.bin"`
 
