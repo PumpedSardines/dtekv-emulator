@@ -11,7 +11,7 @@
 
 Run `cargo run --release --examples board_games` to see the emulator in action
 
-> NOTE!
+> [!NOTE]
 > It's recommended to run this emulator in release mode since the debug build is noticeably slower
 
 ## How to use:
