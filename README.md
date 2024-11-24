@@ -1,4 +1,8 @@
-# ⚠️⚠️⚠️ This project is old, check out dtekv-emulator-web instead ⚠️⚠️⚠️
+# ⚠️⚠️⚠️ This project is old, check out [the web version](https://github.com/PumpedSardines/dtekv-emulator-web) instead ⚠️⚠️⚠️
+
+<br/>
+<br/>
+<br/>
 
 
 <div align="center">
