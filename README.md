@@ -1,3 +1,6 @@
+# ⚠️⚠️⚠️ This project is old, check out dtekv-emulator-web instead ⚠️⚠️⚠️
+
+
 <div align="center">
     <h1>DTEK-V emulator</h1>
     <p>An emulator for the DTEK-V chip, built on top of Web-view</p>
